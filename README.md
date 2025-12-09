@@ -55,7 +55,7 @@ This project is an IoT-enabled safety system designed to detect gas leakage (LPG
 ![System Prototype](img/Figure_Real_Implementation.png.png)
 *Figure: Real implementation of the monitoring unit.*
 
-![Blynk Dashboard](img/fig_9.1_Blynk-Safe Condition (all green).jpg)
+![Blynk Dashboard](img/fig_9.1_Blynk-Safe_Condition_all_green.jpg)
 *Figure: Mobile dashboard showing real-time PPM levels and fan status.*
 
 ## 👥 Project Team
@@ -72,6 +72,7 @@ Daffodil International University
 ---
 
 *Created: August 2025*
+
 
 
 
